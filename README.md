@@ -48,23 +48,6 @@
   * **Frontend & Backend Development:** Built core member modules including authentication, profile management, order tracking, token lookup, wishlists, and notifications.
   * **Tech Stack:** Spring, Spring Data JPA, Ajax, WebSocket, Servlet, JSP, JDBC.
 
----
-
-## 💼 Professional Experience
-
-### 軟體工程師 (Software Engineer) | 資拓宏宇國際股份有限公司 (Mitac Information Technology)
-* **Period:** 2023/11 – 2026/9 (2 years 10 months)
-* **Key Responsibilities & Achievements:**
-  * Developed and maintained frontend-backend separated systems under tight schedules and frequently changing requirements.
-  * Handled issue tracking, debugging, and wrote test scripts.
-  * Successfully delivered multiple corporate & government projects:
-    * **OSMP Internal Website** (Vue3)
-    * **Healthcare & Insurance System** (Vue3 / TypeScript)
-    * **ESG Management Modules:** Product Carbon Footprint, Greenhouse Gas Inventory, and Management Platform (Vue3 / TypeScript)
-    * **Corporate Official Website** (WordPress)
-  * Actively bridged communication with System Analysts (SA) and backend teams to clarify complex business logic, reducing rework and ensuring alignment.
-
----
 
 ## 📜 Certifications & Credentials
 
